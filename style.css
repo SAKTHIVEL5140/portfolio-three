@@ -1,0 +1,148 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: "Young Serif", serif;
+
+}
+.section-one{
+    color:aliceblue;
+    background-color: black;
+    padding:20px;   
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__role{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section-one__contact{
+    background-color: rgb(255, 149, 0);
+    color:aliceblue;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.container{
+    padding: 50px;
+}
+.section-two{
+    margin-top: 20px;
+}
+.section-two__desc{
+    margin-top:10px;
+}
+.section-three{
+    background-color: #6462fd;
+    padding:20px;
+    border-radius: 10px;
+    margin-top:20px;
+    display:inline-block;
+    vertical-align: top;
+    height: 180px;
+}
+li{
+    list-style: none;
+}
+.section-four{
+    background-color: rgb(255, 123, 0);
+    border-radius: 10px;
+    padding:10px;
+    margin-top:20px;
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    
+}
+.section-five{
+    background-color: black;
+    padding:10px;
+    margin-top:10px;
+}
+.section-five__desc{
+    color: white;
+}
+.section-five__desc1{
+    color:white;
+    margin-top: 10px;
+}
+.section-one-{
+    background-color: black;
+    color:aliceblue;
+    padding-left:10px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.section-one_home{
+    background-color: rgb(255, 136, 0);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: azure;
+}
+.container-contact{
+    padding:50px;
+}
+.section-one_title{
+    font-size: 60px;
+    padding-bottom: 10px;
+    
+}
+.section-one_des{
+    font-size:30px;
+    padding-bottom: 10px;
+}
+.section-two{
+    padding-top: 10px;
+}
+.email-one{
+    padding-top: 10px;
+}
+.email-two{
+    padding-top: 10px;
+}
+.address-one{
+    padding-top: 10px;
+}
+.address-two{
+    padding-top: 10px;
+}
+.name-one{
+    font-size: 20px;
+}
+.email-one{
+    font-size: 20px
+}
+.address-one{
+    font-size: 20px;
+}
+.media-one{
+    margin-top: 50px;
+    background-color: black;
+    color:aliceblue;
+    padding-left: 10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+.pra{
+    padding-top: 10px;
+}
+.media-in{
+    color: #6462fd;
+}
+.media-you{
+    color: #6462fd;
+}
+.media-one-in{
+    color: #6462fd;
+}
+.media-one-you{
+    color:#6462fd;
+}
